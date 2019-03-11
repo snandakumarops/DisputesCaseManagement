@@ -1,0 +1,4 @@
+'cardAttributes.cardType' : ['Visa','Mastercard']
+'cardAttributes.customerUse' : ['Corporate','Personal']
+'cardAttribute.issueType' : ['Fraud','Chargeback']
+'FraudData.customerStatus' : ['PLATINUM','SILVER','GOLD']

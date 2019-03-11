@@ -1,0 +1,10 @@
+package com.fsi.creditcarddisputecase;
+
+rule "testRule"
+salience 100
+ruleflow-group "agentscore"
+dialect "mvel"
+when 
+then
+   System.out.println(">>> Rules Fired !!!");
+end
