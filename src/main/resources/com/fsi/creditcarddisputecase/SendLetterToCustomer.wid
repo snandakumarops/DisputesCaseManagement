@@ -1,0 +1,12 @@
+[
+  [
+    "name" : "SendLetterTask",
+    "parameters" : [
+        "CustomerName" : new StringDataType(),
+        "CustomerAddress" : new StringDataType(),
+        "Message" : new StringDataType()
+    ],
+    "displayName" : "Send Letter By Mail",
+    "icon" : "../../../../../../../../global/defaultservicenodeicon.png"
+  ]
+]
